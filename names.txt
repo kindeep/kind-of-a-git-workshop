@@ -1,2 +1,1 @@
-Rikveet Singh, Computer Science, Interests: AI, Git
-hackermans
+Rikveet Singh, Computer Science, Interests: AI, Git,hackermans
