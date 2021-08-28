@@ -1,6 +1,3 @@
-
-Rikveet Singh, Computer Science, Interests: AI, Git
+Rikveet Singh, Computer Science, Interests: AI, Git,hackermans
 Kindeep Singh Kargil, Program: Computer Science, Interests: Full-Stack dev
 Fahad Ansar, Computer Science, Interest: Web Dev
-Rikveet Singh, Computer Science, Interests: AI, Git,hackermans
-
