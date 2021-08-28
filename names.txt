@@ -1,1 +1,3 @@
 Rikveet Singh, Computer Science, Interests: AI, Git
+Fahad Ansar, Computer Science, Interest: Web Dev
+
