@@ -1,6 +1,7 @@
 
 Rikveet Singh, Computer Science, Interests: AI, Git
 Joel Jacob, Computer Science, Interests: Chess, and RL
+Kindeep Singh Kargil, Program: Computer Science, Interests: Full-Stack dev
 Fahad Ansar, Computer Science, Interest: Web Dev
 Rikveet Singh, Computer Science, Interests: AI, Git,hackermans
 
