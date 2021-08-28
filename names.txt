@@ -1,1 +1,2 @@
 Rikveet Singh, Computer Science, Interests: AI, Git
+Joel Jacob, Computer Science, Interests: Chess, and RL
